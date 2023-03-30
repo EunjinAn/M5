@@ -3,13 +3,13 @@ M6_Exercise
 
 02_Big data analysis using polars data frame
 
-dataset : Accidents.csv (72.28MB) and Bikers.csv (29.38MB)
+Dataset : Accidents.csv (72.28MB) and Bikers.csv (29.38MB)
 We selected a large dataset with 827,861 rows of two dataset(bikers, accident), and use Polars to perform the complete EDA report.
 We did
-- large dataset imported using polars data frame
-- inner join with two dataset
+- Large dataset imported using polars data frame
+- Inner join with two dataset
 - Aggregate the data using various functions
-- visualization using plotly and seaborn lib.
+- Visualization using plotly and seaborn lib.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
