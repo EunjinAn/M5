@@ -1,5 +1,4 @@
 ## M6
-M6_Exercise
 
 02_Big data analysis using polars data frame
 
