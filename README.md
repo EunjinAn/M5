@@ -1,3 +1,13 @@
+04_Dockerizing an MLflow-based ML App with SQLite and Streamlit Interface 
+
+Dataset: Penguin dataset
+In this assignment, we did dockerzing with Streamlit interface and uploaded in DockerHub. 
+
+<img width="892" alt="image" src="https://user-images.githubusercontent.com/112074208/235611275-ee356edf-531c-4c2c-ad84-360b1970fec5.png">
+
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 ## M6
 
 02_Big data analysis using polars data frame
